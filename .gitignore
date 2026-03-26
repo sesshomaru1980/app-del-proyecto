@@ -1,0 +1,23 @@
+# =========================
+# Node / Backend
+# =========================
+backend/node_modules/
+backend/.env
+backend/npm-debug.log*
+
+# =========================
+# Android / Kotlin
+# =========================
+android-app/.gradle/
+android-app/local.properties
+android-app/.idea/
+android-app/**/build/
+android-app/captures/
+android-app/.externalNativeBuild/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
